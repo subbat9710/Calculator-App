@@ -1,4 +1,4 @@
-# Calculator App with OOP Principle in C#
+# Calculator App build with OOP Principle in C#
 #### This is a calculator app built with the OOP (Object-Oriented Programming) principle in C# that allows you to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. Additionally, the app allows you to calculate the square of a number.
 
 # Features
